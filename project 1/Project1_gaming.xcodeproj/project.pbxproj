@@ -17,7 +17,7 @@
 		D8F8F77B22711549005CE3B4 /* GameAssist.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8F8F77A22711549005CE3B4 /* GameAssist.swift */; };
 		D8F8F77D2271192B005CE3B4 /* GameMenu.sks in Resources */ = {isa = PBXBuildFile; fileRef = D8F8F77C2271192B005CE3B4 /* GameMenu.sks */; };
 		D8F8F77F22711960005CE3B4 /* GameMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8F8F77E22711960005CE3B4 /* GameMenu.swift */; };
-		D8F8F78122712451005CE3B4 /* Music.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D8F8F78022712451005CE3B4 /* Music.mp3 */; };
+		D8F8F7832271299B005CE3B4 /* Music.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D8F8F7822271299B005CE3B4 /* Music.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,7 +33,7 @@
 		D8F8F77A22711549005CE3B4 /* GameAssist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameAssist.swift; sourceTree = "<group>"; };
 		D8F8F77C2271192B005CE3B4 /* GameMenu.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameMenu.sks; sourceTree = "<group>"; };
 		D8F8F77E22711960005CE3B4 /* GameMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameMenu.swift; sourceTree = "<group>"; };
-		D8F8F78022712451005CE3B4 /* Music.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Music.mp3; path = ../../../../../Desktop/Music.mp3; sourceTree = "<group>"; };
+		D8F8F7822271299B005CE3B4 /* Music.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Music.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,8 +74,8 @@
 				D8F8F77A22711549005CE3B4 /* GameAssist.swift */,
 				D8F8F76A22710CC8005CE3B4 /* GameViewController.swift */,
 				D8F8F76C22710CC8005CE3B4 /* Main.storyboard */,
-				D8F8F78022712451005CE3B4 /* Music.mp3 */,
 				D8F8F76F22710CCA005CE3B4 /* Assets.xcassets */,
+				D8F8F7822271299B005CE3B4 /* Music.mp3 */,
 				D8F8F77122710CCA005CE3B4 /* LaunchScreen.storyboard */,
 				D8F8F77422710CCA005CE3B4 /* Info.plist */,
 			);
@@ -140,7 +140,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D8F8F78122712451005CE3B4 /* Music.mp3 in Resources */,
+				D8F8F7832271299B005CE3B4 /* Music.mp3 in Resources */,
 				D8F8F77D2271192B005CE3B4 /* GameMenu.sks in Resources */,
 				D8F8F76E22710CC8005CE3B4 /* Main.storyboard in Resources */,
 				D8F8F76522710CC8005CE3B4 /* GameScene.sks in Resources */,
